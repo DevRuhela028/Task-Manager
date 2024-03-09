@@ -12,8 +12,8 @@ body{
     align-items: center;
 }
 .main{
-    height: 400px;
-    width: 700px;
+    height: 300px;
+    width: 600px;
     margin-top: 100px;
     padding: 20px;
     border-radius: 30px;
@@ -67,7 +67,7 @@ button:hover{
 }
 .todo{
     min-height: 70px;
-    width: 700px;
+    width: 600px;
     margin-top: 100px;
     padding: 20px;
     border-radius: 30px;
@@ -85,6 +85,8 @@ button:hover{
     border-radius: 30px;
     background-color: rgb(203, 202, 202);
     box-shadow: 0 0 2rem rgba(0, 0, 0, 0.8);
+    font-size: 25px;
+    margin-bottom: 30px;
 }
 .done h{
     font-size: 35px;
@@ -103,7 +105,4 @@ button:hover{
     width: 30px;
     margin-right: 10px;
     margin-top: 5px;
-}
-.done{
-    font-size: 25px;
 }
